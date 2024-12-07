@@ -1,0 +1,21 @@
+{
+  "name": "bezier-brain",
+  "version": "1.0.0",
+  "description": "Run `node generator.js` to generate a synthetic dataset or just populate `./dataset/data.csv` file with your own data.",
+  "main": "app.js",
+  "author": "alibek",
+  "license": "ISC",
+  "dependencies": {
+    "bezier-js": "^6.1.4",
+    "brain.js": "1.6.1",
+    "canvas": "^2.11.0",
+    "pngjs": "5.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
